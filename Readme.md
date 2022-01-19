@@ -61,7 +61,7 @@
 	}
 ```
 
-** c++代码 **
+**c++代码**
 ```cpp
 	#include<iostream>
 	int main()
